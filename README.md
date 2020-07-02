@@ -1,5 +1,5 @@
 # Conway's game of life
-:building_construction: Simple Conway's game of life implementation in Python3 (`Python 3.6.9`)
+:game_die: Simple Conway's game of life implementation in Python3 (`Python 3.6.9`)
 
 <hr>
 
