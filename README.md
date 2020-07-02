@@ -1,4 +1,4 @@
-# conwgol
+# Conway's game of life
 :building_construction: Simple Conway's game of life implementation in Python3
 
 <hr>
