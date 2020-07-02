@@ -31,7 +31,7 @@ def generateNext(fld: list):
     for v in liferow:
         fld[v[0]][v[1]] = 1
 
-def fieldToImg(lst: int) -> Image:
+def fieldToImg(lst: list) -> Image:
     """ Transform field 2-dimentional list to black/white pixel image """
 
     img = Image.new('RGB', (len(lst), len(lst[0])), color = 'white')
