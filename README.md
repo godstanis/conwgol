@@ -25,6 +25,6 @@ Options:
 Usage example:
 `python3 conwaygol.py input.png output.gif 300`
 
-#### Example (upscaled) of converted `image.png`:
+#### Example (upscaled) of converted `input.png`:
 
 <img src="https://github.com/godstanis/conwgol/blob/master/.github/media/example_01.gif?raw=true" width="100%">
